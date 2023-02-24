@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  2 FEB 2023 23:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.2)  24 FEB 2023 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -644,7 +644,23 @@ LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
 LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 79.
 Package tocbasic Info: character protrusion at toc deactivated on input line 79.
- (Main.toc)
+ (Main.toc
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 3.
+ (C:\Users\Aniket\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 3.
+ (C:\Users\Aniket\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3.
+ (C:\Users\Aniket\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3.
+ (C:\Users\Aniket\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+))
 \tf@toc=\write4
 \openout4 = `Main.toc'.
 
@@ -662,8 +678,14 @@ l.90 \include{body.tex}
 
  (body.tex
 chapter 1.
-) [2
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 3.
+[2
 
+
+]
+chapter 2.
+) [3
 
 ]
 No file Main.bbl.
@@ -675,17 +697,17 @@ Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18873 strings out of 475385
- 336983 string characters out of 2776435
+ 19074 strings out of 475385
+ 340407 string characters out of 2776435
  868067 words of memory out of 3000000
- 39906 multiletter control sequences out of 15000+600000
- 483735 words of font info for 86 fonts, out of 8000000 for 9000
+ 40040 multiletter control sequences out of 15000+600000
+ 496159 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,106p,10670b,513s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,7n,106p,10670b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Aniket/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Aniket/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Aniket/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Aniket/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Main.pdf (3 pages, 41849 bytes).
+Output written on Main.pdf (4 pages, 45702 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 38926 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 55326 words of extra memory for PDF output out of 61914 (max. 10000000)
 
